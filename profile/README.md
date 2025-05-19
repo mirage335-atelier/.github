@@ -1,12 +1,6 @@
 
-Private repositories:
+Ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched to unravel usage questions towards getting things working.
 
-Strictly internal only.
-
-Unauthorized use, or use by any independent contractors, etc, is strictly prohibited and never allowed.
-
-Public repositories:
-
-Licensed as stated.
+Repositories may be non-redistributable, insufficiently attributed, etc, do not distribute, do not include with redistributable materials, do not grant access, etc.
 
 
