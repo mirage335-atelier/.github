@@ -9,6 +9,8 @@ CAUTION: Knowledge (ie. datasets, documentation) consolidated for development pu
 
 
 ```Markdown
+
+
 ---
 
 BEGIN directory specific 'synthesis' 'projectName---synthesis' AGENTS.md , other input may regard other hierarchical directories.
@@ -31,5 +33,7 @@ Directories under an 'atelier' , or 'synthesis', organization, label, descriptio
 END directory specific 'synthesis' 'projectName---synthesis' AGENTS.md , other input may regard other hierarchical directories.
 
 ---
+
+
 ```
 
