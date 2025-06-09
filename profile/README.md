@@ -9,4 +9,27 @@ CAUTION: Knowledge (ie. datasets, documentation) consolidated for development pu
 
 
 
+---
+
+BEGIN directory specific 'synthesis' 'nvidia_nemo---synthesis' AGENTS.md , other input may regard other hierarchical directories.
+
+
+
+# atelier , synthesis
+
+Directories under an 'atelier' , or 'synthesis', organization, label, description, etc, may include ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched and created to unravel usage questions towards getting things working, cause Integrated Development Environments, etc, to correctly infer definitions of functions, etc.
+
+
+
+
+
+
+
+
+
+
+END directory specific 'synthesis' 'nvidia_nemo---synthesis' AGENTS.md , other input may regard other hierarchical directories.
+
+---
+
 
