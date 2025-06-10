@@ -13,7 +13,7 @@ CAUTION: Knowledge (ie. datasets, documentation) consolidated for development pu
 
 ---
 
-BEGIN directory specific 'synthesis' 'projectName---synthesis' AGENTS.md , other input may regard other hierarchical directories.
+BEGIN directory specific '[atelier,synthesis]' 'projectName[---synthesis]' AGENTS.md , other input may regard other hierarchical directories.
 
 
 
@@ -30,7 +30,7 @@ Directories under an 'atelier' , or 'synthesis', organization, label, descriptio
 
 
 
-END directory specific 'synthesis' 'projectName---synthesis' AGENTS.md , other input may regard other hierarchical directories.
+END directory specific '[atelier,synthesis]' 'projectName[---synthesis]' AGENTS.md , other input may regard other hierarchical directories.
 
 ---
 
