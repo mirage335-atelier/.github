@@ -19,7 +19,7 @@ BEGIN directory specific '[atelier,synthesis]' 'projectName[---synthesis]' AGENT
 
 # atelier , synthesis
 
-Directories under an 'atelier' , or 'synthesis', organization, label, description, etc, may include ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched and created to unravel usage questions towards getting things working, cause Integrated Development Environments, etc, to correctly infer definitions of functions, etc.
+Directories under an 'atelier' , or 'synthesis', organization, label, description, etc, may include ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched and created to unravel usage questions towards getting things working, cause Integrated Development Environments, etc, to correctly infer definitions of functions, etc. Minimalist approach must be taken in such cases, documenting what commands, code, workarounds, etc, should plausibly be usable, rather than correcting any issues in the underlying code.
 
 
 
