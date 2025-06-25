@@ -1,5 +1,5 @@
 
-Ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched to unravel usage questions towards getting things working.
+Ephemeral documentation, codebases, scripts, etc, often low-quality and unreliable, fetched to unravel usage questions usually towards getting things working, maybe sometimes towards adding features.
 
 Repositories may be non-redistributable, insufficiently attributed, etc, do not distribute, do not include with redistributable materials, do not grant access, etc.
 
